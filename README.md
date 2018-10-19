@@ -16,7 +16,7 @@ Big Data has the potential to answer questions, provide new previously inaccessi
 
 Many organizations are faced with inconsistent data quality and uncontrolled data flow pathways. This situation presents people at the working level and upper management alike with enormous challenges in developing and implementing solutions for Big Data and policies for data governance and data publication. 
 
-It is widely recognized that a major hurdle for analysts and data scientists is data preparation which can take up to 70% or more of the total time spent on data analysis, essentially performing tasks left undone when data providers release data that are not FAIR (Findable, Accessible, Interoperable, and Reusable).
+It is widely recognized that a major hurdle for analysts and data scientists is data preparation which can take up to 70% or more of the total time spent on data analysis, essentially performing tasks left undone when data providers release data that are not [FAIR](https://www.force11.org/group/fairgroup/fairprinciples) (Findable, Accessible, Interoperable, and Reusable).
 
 If data stewards and repositories had an automated tool to check if these criteria have indeed been met, an organization could implement efficient and effective controls in the data workflow. The result would be improved data management and quality, less time spent by analysts on data preparation, reduction or elimination of inefficiencies and costly errors, and a reduction in the costs associated with getting better answers more quickly.
 
@@ -30,7 +30,18 @@ Today we will ask you to build a tool to automate checking these criteria using 
 * [Preprint][link_preprint] on the background for the checklists
 
 ### Tasks
-* Build a tool to process the OHI data through **at least** module 2b (data format/structure) from the Big data readiness   checklists 
+1. Build a tool to process the OHI data through **at least** module 2b (data format/structure) from the Big data readiness checklists.
+2. Develop an overall pass/fail dataset rating based on assessment results to conclude if the dataset(s) is/are reuseable or not.
+3. Produce an R markdown report.
+Optional (*in additon* to the above):
+* Add one or more modules from the Big data readiness checklists to your tool (in addition to module 2b). 
+* Process any other publicly available dataset of your choosing.
+
+### Deliverables
+1. Powerpoint presentation demonstrating implementation of the tool(s) developed.
+2. An R markdown report (code and PDF output).
+3. All computer code.
+4. All deliverables deposited in GitHub with a [GNU General Public Licence version 3](https://opensource.org/licenses/GPL-3.0). 
 
 ### Key points to remember
 * Use only free, open source software.
