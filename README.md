@@ -31,5 +31,10 @@ If data stewards and repositories had an automated tool to check if these criter
 * Management could easily merge results obtained by running the tool across the organization to get a snapshot of the overall state of data quality and data management; and,
 * Management could quickly scan the results to identify areas that may require closer attention within a project, identify gaps and areas in general need of improvement across an organization, or identify special cases that legitimately depart from general guidelines.
 
+## Stuff you will need for the hackathon
+* The dataset provided to you in this repository 
+* Data checklists module 2b (data format/structure) and the associated preprint, "A path to Big Data readiness," found here: 
+  https://t2m.io/X4P3cXI4 
+
 ### Relevant Keywords
 Machine Learning, Big data, data checklists, workflow, FAIR data, automated verification.
