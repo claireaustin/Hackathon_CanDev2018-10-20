@@ -9,7 +9,7 @@
 * [Key points to remember](#key-points-to-remember)
 
 ### Business Issue
-As Environment and Climate Change Canada, we would like to address the problem of assessing data fitness for use. The aim is to automate the assessment of diverse datasets against specified criteria and to programmatically generate a report on the results of the assessment. The ultimate objective is policy development that enables improved data governance and data management.
+At Environment and Climate Change Canada, we would like to address the problem of assessing data fitness for use. The aim is to automate the assessment of diverse datasets against specified criteria and to programmatically generate a report on the results of the assessment. The ultimate objective is policy development that enables improved data governance and data management.
 
 ### Background Material
 Big Data has the potential to answer questions, provide new previously inaccessible insights, and strengthen evidence-informed decision making. However, the harnessing of Big Data can also very easily overwhelm existing resources and approaches, keeping those answers and insights out of reach.
