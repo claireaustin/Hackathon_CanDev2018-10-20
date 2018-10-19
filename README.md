@@ -10,7 +10,7 @@
 * [Key points to remember](#key-points-to-remember)
 
 ### Business Issue
-At Environment and Climate Change Canada, we would like to address the problem of assessing data fitness for use. The aim is to automate the assessment of diverse datasets against specified criteria and to programmatically generate a report on the results of the assessment. The ultimate objective is policy development that enables improved data governance and data management.
+At [Environment and Climate Change Canada][link_ECCC], we would like to address the problem of assessing data fitness for use. The aim is to automate the assessment of diverse datasets against specified criteria and to programmatically generate a report on the results of the assessment. The ultimate objective is policy development that enables improved data governance and data management.
 
 ### Background Material
 Big Data has the potential to answer questions, provide new previously inaccessible insights, and strengthen evidence-informed decision making. However, the harnessing of Big Data can also very easily overwhelm existing resources and approaches, keeping those answers and insights out of reach.
@@ -52,6 +52,7 @@ Today we will ask you to build a tool to automate checking these criteria using 
 
 1. Ocean Health Index. 2018. ohi-global version: Global scenarios data for Ocean Health Index, [10-18-2018]. National Center for Ecological Analysis and Synthesis, University of California, Santa Barbara. Available at: https://github.com/OHI-Science/ohi-global/releases
   
+  [link_ECCC]:https://www.canada.ca/en/environment-climate-change.html
   [link_DGRRepo]:https://t2m.io/X4P3cXI4  
   [link_OHIData]:https://github.com/claireaustin/Hackathon_CanDev2018-10-20/blob/master/OHIDataSet.csv
   [link_OHIbackground]:http://ohi-science.org/news/Biography-OHI
