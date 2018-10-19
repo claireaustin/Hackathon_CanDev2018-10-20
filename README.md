@@ -6,6 +6,7 @@
 * [Background Material](#background-material)
 * [What will you need](#what-will-you-need)
 * [Tasks](#tasks)
+* [Deliverables](#deliverables)
 * [Key points to remember](#key-points-to-remember)
 
 ### Business Issue
@@ -33,8 +34,8 @@ Today we will ask you to build a tool to automate checking these criteria using 
 1. Build a tool to process the OHI data through **at least** module 2b (data format/structure) from the Big data readiness checklists.
 2. Develop an overall pass/fail dataset rating based on assessment results to conclude if the dataset(s) is/are reuseable or not.
 3. Produce an R markdown report containing at least:
-* Overview or summary of the assessment results.
-* Detailed assessment results.
+    * Overview or summary of the assessment results.
+    * Detailed assessment results.
 #### Optional (*in addition* to the above):
 4. Add one or more modules from the Big data readiness checklists to your tool (in addition to module 2b). 
 5. Process any other publicly available dataset of your choosing. If you do this, you must process these data against module 2b and against any of the optional modules that you selected in Step 4.
@@ -49,7 +50,7 @@ Today we will ask you to build a tool to automate checking these criteria using 
 * Use only free, open source software.
 * All implementation must be based on original work.
 
-1. Ocean Health Index. Year. ohi-global version: Global scenarios data for Ocean Health Index, [10-18-2018]. National Center for Ecological Analysis and Synthesis, University of California, Santa Barbara. Available at: https://github.com/OHI-Science/ohi-global/releases
+1. Ocean Health Index. 2018. ohi-global version: Global scenarios data for Ocean Health Index, [10-18-2018]. National Center for Ecological Analysis and Synthesis, University of California, Santa Barbara. Available at: https://github.com/OHI-Science/ohi-global/releases
   
   [link_DGRRepo]:https://t2m.io/X4P3cXI4  
   [link_OHIData]:https://github.com/claireaustin/Hackathon_CanDev2018-10-20/blob/master/OHIDataSet.csv
