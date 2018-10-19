@@ -24,11 +24,11 @@ If data stewards and repositories had an automated tool to check if these criter
 Today we will ask you to build a tool to automate checking these criteria using a modified version of the Ocean Health Index (OHI) data.<sup>1</sup> 
 
 ### What you will need
-* The checklists in Big Data Readiness Checklist [Repo][link_DGRRepo]
-* [Preprint][link_preprint] on the background for the checklists
-* The modified (w/errors introduced) [data][link_OHIData] from the OHI
-* Link to the OHI [metadata][link_metadata]
-* [Background][link_OHIbackground] on the OHI
+* Data checklist modules [Repo][link_DGRRepo].
+* [Preprint][link_preprint] "A path to Big Data readiness" for background and description of the data checklists.
+* OHI [data][link_OHIData] (modified with errors introduced).
+* OHI [metadata][link_metadata].
+* OHI [background][link_OHIbackground].
 
 ### Tasks
 1. Build a tool to process the OHI data through **at least** module 2b (data format/structure) from the Big data readiness checklists.
