@@ -20,7 +20,7 @@ It is widely recognized that a major hurdle for analysts and data scientists is 
 
 If data stewards and repositories had an automated tool to check if these criteria have indeed been met, an organization could implement efficient and effective controls in the data workflow. The result would be improved data management and quality, less time spent by analysts on data preparation, reduction or elimination of inefficiencies and costly errors, and a reduction in the costs associated with getting better answers more quickly.
 
-Today we will ask you to build a tool to automate checking these criteria using a modified version of the Ocean Health Index (OHI) data. 
+Today we will ask you to build a tool to automate checking these criteria using a modified version of the Ocean Health Index (OHI) data<sup>1</sup>. 
 
 ### What you will need
 * The checklists in Big Data Readiness Checklist [Repo][link_DGRRepo]
@@ -35,6 +35,8 @@ Today we will ask you to build a tool to automate checking these criteria using 
 ### Key points to remember
 * Use only free, open source software.
 * All implementation must be based on original work.
+
+1. cean Health Index. Year. ohi-global version: Global scenarios data for Ocean Health Index, [10-18-2018]. National Center for Ecological Analysis and Synthesis, University of California, Santa Barbara. Available at: https://github.com/OHI-Science/ohi-global/releases
   
   [link_DGRRepo]:https://t2m.io/X4P3cXI4  
   [link_OHIData]:https://github.com/claireaustin/Hackathon_CanDev2018-10-20/blob/master/OHIDataSet.csv
