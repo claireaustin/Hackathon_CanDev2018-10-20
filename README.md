@@ -1,5 +1,7 @@
-# CANDEV Hackathon
-## Automating data fitness
+### [CANDEV Data Challenge](https://www.statcan.gc.ca/eng/candev/index)
+#### Statistics Canada in collaboration with the University of Ottawa
+#### University of Ottawa, [Learning Crossroads Building](https://www.uottawa.ca/facilities/learning-crossroads), [100 Louis-Pasteur Private](https://www.google.com/search?q=map+100+louis+pasteur+ottawa&ie=utf-8&oe=utf-8&client=firefox-b-ab)
+# Business case: "Automating data fitness assessment"
 
 ## Table of Contents
 * [Business Issue](#business-issue)  
