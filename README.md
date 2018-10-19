@@ -34,7 +34,7 @@ Today we will ask you to build a tool to automate checking datasets against crit
 * OHI [background][link_OHIbackground].
 
 ### Tasks
-1. Build a tool to process the OHI data through **at least** module 2b (data format/structure) from the Big data readiness checklists.
+1. Build a tool to assess the modified OHI data against **Module 2b (data format/structure)** from the Big data readiness checklists.
 2. Develop an overall pass/fail dataset rating based on assessment results to conclude if the dataset(s) is/are reuseable or not.
 3. Produce an R markdown report containing at least:
     * Overview or summary of the assessment results.
@@ -44,14 +44,15 @@ Today we will ask you to build a tool to automate checking datasets against crit
 5. Process any other publicly available dataset of your choosing. If you do this, you must process these data against module 2b and against any of the optional modules that you selected in Step 4.
 
 ### Deliverables
-1. Powerpoint presentation demonstrating implementation of the tool(s) developed.
-2. An R markdown report (code and PDF output).
-3. All computer code.
-4. All deliverables deposited in public repository on GitHub with a [GNU General Public Licence version 3](https://opensource.org/licenses/GPL-3.0). 
+1. A PowerPoint presentation demonstrating implementation of the tool(s) developed.
+2. Your R markdown report (code and PDF output).
+3. All your computer code.
+4. All your deliverables deposited in a GitHub public repository with a [GNU General Public Licence version 3](https://opensource.org/licenses/GPL-3.0). 
 
 ### Key points to remember
 * Use only free, open source software.
 * All implementation must be based on original work.
+* Provide appropriate attributions and hyperlinks in your deliverables.
 
 1. Ocean Health Index. 2018. ohi-global version: Global scenarios data for Ocean Health Index, [10-18-2018]. National Center for Ecological Analysis and Synthesis, University of California, Santa Barbara. Available at: https://github.com/OHI-Science/ohi-global/releases
   
