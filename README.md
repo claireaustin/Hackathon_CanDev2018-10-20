@@ -1,5 +1,5 @@
 ### [CANDEV Data Challenge](https://www.statcan.gc.ca/eng/candev/index)
-##### Statistics Canada in collaboration with the University of Ottawa
+##### Statistics Canada in collaboration with the University of Ottawa, October 20-21, 2018
 ##### University of Ottawa, [Learning Crossroads Building](https://www.uottawa.ca/facilities/learning-crossroads), 100 Louis-Pasteur Private [map](https://www.google.com/search?q=map+100+louis+pasteur+ottawa&ie=utf-8&oe=utf-8&client=firefox-b-ab)
 # Business case: "Automating data fitness assessment"
 
