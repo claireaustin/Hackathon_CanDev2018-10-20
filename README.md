@@ -32,10 +32,12 @@ Today we will ask you to build a tool to automate checking these criteria using 
 ### Tasks
 1. Build a tool to process the OHI data through **at least** module 2b (data format/structure) from the Big data readiness checklists.
 2. Develop an overall pass/fail dataset rating based on assessment results to conclude if the dataset(s) is/are reuseable or not.
-3. Produce an R markdown report.
----#### Optional (*in addition* to the above):
----* Add one or more modules from the Big data readiness checklists to your tool (in addition to module 2b). 
----* Process any other publicly available dataset of your choosing.
+3. Produce an R markdown report containing at least:
+    a. Overview or summary of the results.
+    b. Detailed results.
+#### Optional (*in addition* to the above):
+4. Add one or more modules from the Big data readiness checklists to your tool (in addition to module 2b). 
+5. Process any other publicly available dataset of your choosing. If you do this, you must process these data against module 2b and against any of the optional modules that you selected in Step 4.
 
 ### Deliverables
 1. Powerpoint presentation demonstrating implementation of the tool(s) developed.
