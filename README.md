@@ -4,8 +4,9 @@
 ## Table of Contents
 * [Business Issue](#business-issue)  
 * [Background Material](#background-material)
+* [What will you need](#what-will-you-need)
 * [Tasks](#tasks)
-* [Potential functionality](#potential-functionality)
+* [Key points to remember](#key-points-to-remember)
 
 ### Business Issue
 As Environment and Climate Change Canada, we would like to address the problem of assessing data fitness for use. The aim is to automate the assessment of diverse datasets against specified criteria and to programmatically generate a report on the results of the assessment. The ultimate objective is policy development that enables improved data governance and data management.
@@ -19,34 +20,28 @@ It is widely recognized that a major hurdle for analysts and data scientists is 
 
 If data stewards and repositories had an automated tool to check if these criteria have indeed been met, an organization could implement efficient and effective controls in the data workflow. The result would be improved data management and quality, less time spent by analysts on data preparation, reduction or elimination of inefficiencies and costly errors, and a reduction in the costs associated with getting better answers more quickly.
 
+Today we will ask you to build a tool to automate checking this criteria using the a modified version of the Ocean Health Index (OHI) data. 
+
 ### What will you need
 * The checklists in Big Data Readiness Checklist [Repo][link_DGRRepo]
-* The modified (error introduced) [data][link_OHIData] from the Oceann Health Index
+* The modified (w/errors introduced) [data][link_OHIData] from the OHI
+* [Background][link_OHIbackground] on the OHI
+* Link to the OHI [metadata][link_metadata]
+* [Preprint][link_preprint] on the background for the checklists
 
-### Key Points to Remember
-* How do we know if any given dataset is ready to be shared or deposited in a data repository for reuse, or if it is ready for analysis or mash-up in a Big Data project?
-* How can assessment of data fitness for use be automated?
-* Given the provided datasets and data checklists, develop a tool that can produce automatically generated dataset assessment results in an R markdown report.
-* Improve the data assessment checklists provided in order to better enable automation of the process and/or include additional data assessment criteria. Flag items that must be checked manually. 
-* Develop an overall pass/fail dataset rating based on the assessment results to conclude if the provided dataset(s) is/are reusable or not.
+### Tasks
+* Build a tool to process the OHI data through **at least** module 2b (data format/structure) from the Big data readiness   checklists 
+*
+
+### Key points to remember
 * Use only free, open source software.
 * All implementation must be based on original work.
 
-## Potential functionality
-Develop the data assessment tool, preferably in R, such that:
-* A data provider could use the instrument as an auto-evaluation tool;
-* A data provider could use the instrument as a learning tool;
-* Results could be submitted to data stewards and/or management along with or in lieu of the actual data for the purpose of data approval;
-* An institutional digital repository could use the tool to identify datasets for acceptance into the repository, and to return to the provider for correction datasets that fail to meet all criteria along with information on needed corrections;
-* Management could easily merge results obtained by running the tool across the organization to get a snapshot of the overall state of data quality and data management; and,
-* Management could quickly scan the results to identify areas that may require closer attention within a project, identify gaps and areas in general need of improvement across an organization, or identify special cases that legitimately depart from general guidelines.
-
-## Stuff you will need for the hackathon
-* The dataset provided to you in this repository 
-* Data checklists module 2b (data format/structure) and the associated preprint, "A path to Big Data readiness," found here: 
-  https://t2m.io/X4P3cXI4 
   
   [link_DGRRepo]:https://t2m.io/X4P3cXI4  
   [link_OHIData]:https://github.com/claireaustin/Hackathon_CanDev2018-10-20/blob/master/OHIDataSet.csv
+  [link_OHIbackground]:http://ohi-science.org/news/Biography-OHI
+  [link_metadata]:https://github.com/OHI-Science/ohi-global/tree/draft/global2017#ohi-2017-global-metadata
+  [link_preprint]:https://github.com/claireaustin/BigDataReadiness/blob/master/Austin2018PREPRINT_PathToBigDataReadiness.pdf
   
 
