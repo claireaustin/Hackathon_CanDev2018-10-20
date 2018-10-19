@@ -33,7 +33,7 @@ Today we will ask you to build a tool to automate checking these criteria using 
 1. Build a tool to process the OHI data through **at least** module 2b (data format/structure) from the Big data readiness checklists.
 2. Develop an overall pass/fail dataset rating based on assessment results to conclude if the dataset(s) is/are reuseable or not.
 3. Produce an R markdown report.
-Optional (*in additon* to the above):
+#### Optional (*in additon* to the above):
 * Add one or more modules from the Big data readiness checklists to your tool (in addition to module 2b). 
 * Process any other publicly available dataset of your choosing.
 
