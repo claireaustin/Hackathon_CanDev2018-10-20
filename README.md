@@ -1,6 +1,6 @@
 ### [CANDEV Data Challenge](https://www.statcan.gc.ca/eng/candev/index)
-#### Statistics Canada in collaboration with the University of Ottawa
-#### University of Ottawa, [Learning Crossroads Building](https://www.uottawa.ca/facilities/learning-crossroads), [100 Louis-Pasteur Private](https://www.google.com/search?q=map+100+louis+pasteur+ottawa&ie=utf-8&oe=utf-8&client=firefox-b-ab)
+##### Statistics Canada in collaboration with the University of Ottawa
+##### University of Ottawa, [Learning Crossroads Building](https://www.uottawa.ca/facilities/learning-crossroads), 100 Louis-Pasteur Private [map](https://www.google.com/search?q=map+100+louis+pasteur+ottawa&ie=utf-8&oe=utf-8&client=firefox-b-ab)
 # Business case: "Automating data fitness assessment"
 
 ## Table of Contents
@@ -26,7 +26,7 @@ If data stewards and repositories had an automated tool to check if these criter
 Today we will ask you to build a tool to automate checking these criteria using a modified version of the Ocean Health Index (OHI) data.<sup>1</sup> 
 
 ### What you will need
-* Data checklist modules [Repo][link_DGRRepo].
+* Data checklist modules [Repository][link_DGRRepo].
 * [Preprint][link_preprint] "A path to Big Data readiness" for background and description of the data checklists.
 * OHI [data][link_OHIData] (modified with errors introduced).
 * OHI [metadata][link_metadata].
@@ -38,7 +38,7 @@ Today we will ask you to build a tool to automate checking these criteria using 
 3. Produce an R markdown report containing at least:
     * Overview or summary of the assessment results.
     * Detailed assessment results.
-#### Optional (*in addition* to the above):
+   #### Optional (*in addition* to the above):
 4. Add one or more modules from the Big data readiness checklists to your tool (in addition to module 2b). 
 5. Process any other publicly available dataset of your choosing. If you do this, you must process these data against module 2b and against any of the optional modules that you selected in Step 4.
 
@@ -46,7 +46,7 @@ Today we will ask you to build a tool to automate checking these criteria using 
 1. Powerpoint presentation demonstrating implementation of the tool(s) developed.
 2. An R markdown report (code and PDF output).
 3. All computer code.
-4. All deliverables deposited in GitHub with a [GNU General Public Licence version 3](https://opensource.org/licenses/GPL-3.0). 
+4. All deliverables deposited in public repository on GitHub with a [GNU General Public Licence version 3](https://opensource.org/licenses/GPL-3.0). 
 
 ### Key points to remember
 * Use only free, open source software.
