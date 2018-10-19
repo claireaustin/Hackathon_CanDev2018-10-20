@@ -36,7 +36,7 @@ Today we will ask you to build a tool to automate checking these criteria using 
 * Use only free, open source software.
 * All implementation must be based on original work.
 
-1. cean Health Index. Year. ohi-global version: Global scenarios data for Ocean Health Index, [10-18-2018]. National Center for Ecological Analysis and Synthesis, University of California, Santa Barbara. Available at: https://github.com/OHI-Science/ohi-global/releases
+1. Ocean Health Index. Year. ohi-global version: Global scenarios data for Ocean Health Index, [10-18-2018]. National Center for Ecological Analysis and Synthesis, University of California, Santa Barbara. Available at: https://github.com/OHI-Science/ohi-global/releases
   
   [link_DGRRepo]:https://t2m.io/X4P3cXI4  
   [link_OHIData]:https://github.com/claireaustin/Hackathon_CanDev2018-10-20/blob/master/OHIDataSet.csv
