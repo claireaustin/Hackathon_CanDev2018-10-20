@@ -21,7 +21,7 @@ It is widely recognized that a major hurdle for analysts and data scientists is 
 
 If data stewards and repositories had an automated tool to check if these criteria have indeed been met, an organization could implement efficient and effective controls in the data workflow. The result would be improved data management and quality, less time spent by analysts on data preparation, reduction or elimination of inefficiencies and costly errors, and a reduction in the costs associated with getting better answers more quickly.
 
-Today we will ask you to build a tool to automate checking these criteria using a modified version of the Ocean Health Index (OHI) data<sup>1</sup>. 
+Today we will ask you to build a tool to automate checking these criteria using a modified version of the Ocean Health Index (OHI) data.<sup>1</sup> 
 
 ### What you will need
 * The checklists in Big Data Readiness Checklist [Repo][link_DGRRepo]
