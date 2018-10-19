@@ -25,11 +25,10 @@ Today we will ask you to build a tool to automate checking these criteria using 
 
 ### What you will need
 * The checklists in Big Data Readiness Checklist [Repo][link_DGRRepo]
-* The modified (w/errors introduced) [data][link_OHIData] from the OHI
-* The OHI metadata<sup>1</sup>
-* [Background][link_OHIbackground] on the OHI
-* Link to the OHI [metadata][link_metadata]
 * [Preprint][link_preprint] on the background for the checklists
+* The modified (w/errors introduced) [data][link_OHIData] from the OHI
+* Link to the OHI [metadata][link_metadata]
+* [Background][link_OHIbackground] on the OHI
 
 ### Tasks
 1. Build a tool to process the OHI data through **at least** module 2b (data format/structure) from the Big data readiness checklists.
