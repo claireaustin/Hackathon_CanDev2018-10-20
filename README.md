@@ -1,5 +1,11 @@
-# Hackathon
+# CANDEV Hackathon
 ## Automating data fitness
+
+## Table of Contents
+* [Business Issue](#business-issue)  
+* [Background Material](#background-material)
+* [Tasks](#tasks)
+* [Potential functionality](#potential-functionality)
 
 ### Business Issue
 As Environment and Climate Change Canada, we would like to address the problem of assessing data fitness for use. The aim is to automate the assessment of diverse datasets against specified criteria and to programmatically generate a report on the results of the assessment. The ultimate objective is policy development that enables improved data governance and data management.
@@ -13,6 +19,10 @@ It is widely recognized that a major hurdle for analysts and data scientists is 
 
 If data stewards and repositories had an automated tool to check if these criteria have indeed been met, an organization could implement efficient and effective controls in the data workflow. The result would be improved data management and quality, less time spent by analysts on data preparation, reduction or elimination of inefficiencies and costly errors, and a reduction in the costs associated with getting better answers more quickly.
 
+### What will you need
+* The checklists in Big Data Readiness Checklist [Repo][link_DGRRepo]
+* The modified (error introduced) [data][link_OHIData] from the Oceann Health Index
+
 ### Key Points to Remember
 * How do we know if any given dataset is ready to be shared or deposited in a data repository for reuse, or if it is ready for analysis or mash-up in a Big Data project?
 * How can assessment of data fitness for use be automated?
@@ -23,7 +33,7 @@ If data stewards and repositories had an automated tool to check if these criter
 * All implementation must be based on original work.
 
 ## Potential functionality
-### Develop the data assessment tool, preferably in R, such that:
+Develop the data assessment tool, preferably in R, such that:
 * A data provider could use the instrument as an auto-evaluation tool;
 * A data provider could use the instrument as a learning tool;
 * Results could be submitted to data stewards and/or management along with or in lieu of the actual data for the purpose of data approval;
@@ -35,6 +45,8 @@ If data stewards and repositories had an automated tool to check if these criter
 * The dataset provided to you in this repository 
 * Data checklists module 2b (data format/structure) and the associated preprint, "A path to Big Data readiness," found here: 
   https://t2m.io/X4P3cXI4 
+  
+  [link_DGRRepo]:https://t2m.io/X4P3cXI4  
+  [link_OHIData]:https://github.com/claireaustin/Hackathon_CanDev2018-10-20/blob/master/OHIDataSet.csv
+  
 
-### Relevant Keywords
-Machine Learning, Big data, data checklists, workflow, FAIR data, automated verification.
