@@ -58,7 +58,7 @@ Today we will ask you to build a tool to automate checking datasets against crit
 
 ### Acknowledgments
 * Many thanks to Dr. Julia Stewart Lowndes, Mozilla Open Science Fellow, marine data scientist at the National Center for Ecological Analysis and Synthesis (NCEAS) and Science Program Lead for the Ocean Health Index (OHI) at the University of California Santa Barbara, for permission to use the OHI data in this hackathon. 
-* A big thank you to Dr. Monica Granados, MITACS Canadian Science Policy Fellow at the Science and Technology Strategies Directorate, Environment and Climate Change Canada, for setting up the modified OHI dataset and the GitHub repository for the hackathon.
+* A big thank you to Dr. Monica Granados, MITACS Canadian Science Policy Fellow at the Science and Technology Strategies Directorate, Environment and Climate Change Canada, for setting up the modified OHI dataset and helping with the GitHub repository for the hackathon.
 
 1. Ocean Health Index. 2018. ohi-global version: Global scenarios data for Ocean Health Index, [10-18-2018]. National Center for Ecological Analysis and Synthesis, University of California, Santa Barbara. Available at: https://github.com/OHI-Science/ohi-global/releases
   
