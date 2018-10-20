@@ -26,7 +26,7 @@ If data stewards and repositories had an automated tool to check if data meet ce
 Today we will ask you to build a tool to automate checking datasets against criteria specified in provided data checklists. 
 
 ### What you will need
-* Data checklist modules [Repository][link_DGRRepo].
+* Data checklist modules in the [BigDataReadiness repository][link_DGRRepo].
 * [Preprint][link_preprint] *"A path to Big Data readiness"* for background and description of the data checklists.
 * A modified version of the Ocean Health Index (OHI) data.<sup>1</sup>
 * OHI [data][link_OHIData] (modified with errors introduced).
@@ -37,7 +37,7 @@ Today we will ask you to build a tool to automate checking datasets against crit
 1. Build a tool to assess the modified OHI data against **Module 2b (data format/structure)** from the Big data readiness checklists.
 2. Develop an overall pass/fail dataset rating based on assessment results to conclude if the dataset(s) is/are reuseable or not.
 3. Produce an R markdown report containing at least:
-    * Overview or summary of the assessment results.
+    * Overview and summary of the assessment results.
     * Detailed assessment results.
    #### Optional (*in addition* to the above):
 4. Add one or more modules from the Big data readiness checklists to your tool (in addition to module 2b). 
