@@ -14,7 +14,7 @@
 ### Business Issue
 At [Environment and Climate Change Canada][link_ECCC], we would like to address the problem of assessing data fitness for use. The aim is to automate the assessment of diverse datasets against specified criteria and to programmatically generate a report on the results of the assessment. The ultimate objective is policy development that enables improved data governance and data management.
 
-### Background Material
+### Introduction
 Big Data has the potential to answer questions, provide new previously inaccessible insights, and strengthen evidence-informed decision making. However, the harnessing of Big Data can also very easily overwhelm existing resources and approaches, keeping those answers and insights out of reach.
 
 Many organizations are faced with inconsistent data quality and uncontrolled data flow pathways. This situation presents people at the working level and upper management alike with enormous challenges in developing and implementing solutions for Big Data, and policies for data governance and data publication. 
@@ -27,7 +27,7 @@ Today we will ask you to build a tool to automate checking datasets against crit
 
 ### What you will need
 * Data checklist modules [Repository][link_DGRRepo].
-* [Preprint][link_preprint] "A path to Big Data readiness" for background and description of the data checklists.
+* [Preprint][link_preprint] *"A path to Big Data readiness"* for background and description of the data checklists.
 * A modified version of the Ocean Health Index (OHI) data.<sup>1</sup>
 * OHI [data][link_OHIData] (modified with errors introduced).
 * OHI [metadata][link_metadata].
