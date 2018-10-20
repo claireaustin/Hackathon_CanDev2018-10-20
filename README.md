@@ -52,7 +52,7 @@ Today we will ask you to build a tool to automate checking datasets against crit
 ### Key points to remember
 * Use only free, open source software.
 * Your computer code must be nicely organized and thoroughly documented/commented.
-* Your code should comply with a style guide. For example, if you are coding in R, [Tidyverse style guide](http://style.tidyverse.org/)
+* Your computer code should comply with a style guide. For example, if you are coding in R, [the tidyverse style guide](http://style.tidyverse.org/).
 * All implementation must be based on original work.
 * Provide appropriate attributions and hyperlinks in your deliverables.
 
