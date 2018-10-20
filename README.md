@@ -51,6 +51,7 @@ Today we will ask you to build a tool to automate checking datasets against crit
 
 ### Key points to remember
 * Use only free, open source software.
+* Your computer code must nicely organized and thoroughly commented. 
 * All implementation must be based on original work.
 * Provide appropriate attributions and hyperlinks in your deliverables.
 
